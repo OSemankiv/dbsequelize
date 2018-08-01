@@ -1,0 +1,23 @@
+{
+  "name": "dbsequelize",
+  "version": "1.0.0",
+  "description": "DB sequelize training project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OSemankiv/dbsequelize.git"
+  },
+  "keywords": [
+    "db",
+    "sequelize"
+  ],
+  "author": "Oleh Semankiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OSemankiv/dbsequelize/issues"
+  },
+  "homepage": "https://github.com/OSemankiv/dbsequelize#readme"
+}
